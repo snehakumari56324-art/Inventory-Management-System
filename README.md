@@ -65,7 +65,7 @@ Inventory-Management-System/
 
 ### Business Management
 
-![Business](business.png)
+![Business](bussiness.png)
 
 ### Sales Management
 
