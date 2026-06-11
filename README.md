@@ -35,14 +35,13 @@ Inventory-Management-System/
 │
 ├── application_export.sql
 ├── README.md
-└── screenshots/
-    ├── login.png
-    ├── signup.png
-    ├── dashboard.png
-    ├── products.png
-    ├── business.png
-    ├── sales.png
-    └── analytics.png
+├── login.png
+├── signup.png
+├── dashboard.png
+├── products.png
+├── business.png
+├── sales.png
+└── analytics.png
 
 ---
 
@@ -50,15 +49,15 @@ Inventory-Management-System/
 
 ### Login Page
 
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ### Sign Up Page
 
-![Sign Up](screenshots/signup.png)
+![Sign Up](signup.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Product Management
 
@@ -66,15 +65,15 @@ Inventory-Management-System/
 
 ### Business Management
 
-![Business](screenshots/business.png)
+![Business](business.png)
 
 ### Sales Management
 
-![Sales](screenshots/sales.png)
+![Sales](sales.png)
 
 ### Analytics Dashboard
 
-![Analytics](screenshots/analytics.png)
+![Analytics](analytics.png)
 
 ---
 
