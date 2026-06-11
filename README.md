@@ -61,7 +61,7 @@ Inventory-Management-System/
 
 ### Product Management
 
-![Products](screenshots/products.png)
+![Products](products.png)
 
 ### Business Management
 
